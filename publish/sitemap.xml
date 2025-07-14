@@ -344,6 +344,18 @@
     </url>
   
     <url>
+      <loc>https://carserdobrasil.netlify.app/bateria-para-verifone-vx680</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://carserdobrasil.netlify.app/cabo-aspiralado-para-pos-vx520</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://carserdobrasil.netlify.app/cabos/</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -560,15 +572,15 @@
     </url>
   
     <url>
-      <loc>https://carserdobrasil.netlify.app/</loc>
-      <changefreq>daily</changefreq>
-      <priority>1</priority>
-    </url>
-  
-    <url>
       <loc>https://carserdobrasil.netlify.app/blog</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://carserdobrasil.netlify.app/</loc>
+      <changefreq>daily</changefreq>
+      <priority>1</priority>
     </url>
   
     <url>
