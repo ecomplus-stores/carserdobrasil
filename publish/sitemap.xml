@@ -2,54 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>https://carserdobrasil.netlify.app/iphone-5-se</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://carserdobrasil.netlify.app/iphone-5s</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://carserdobrasil.netlify.app/fonte-5v-1a-para-s920-pax</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://carserdobrasil.netlify.app/p_184</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://carserdobrasil.netlify.app/cabo-de-forca-ac-tripolar</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://carserdobrasil.netlify.app/pos-verifone-vx-690</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://carserdobrasil.netlify.app/carregador-para-pos-ingenico-move-2500-5v-15a</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://carserdobrasil.netlify.app/carregador-para-pos-ingenico-move-5000</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://carserdobrasil.netlify.app/cabos/</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -161,6 +113,96 @@
       <loc>https://carserdobrasil.netlify.app/cabo-para-gaveta/</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://carserdobrasil.netlify.app/iphone-5-se</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://carserdobrasil.netlify.app/iphone-5s</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://carserdobrasil.netlify.app/fonte-5v-1a-para-s920-pax</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://carserdobrasil.netlify.app/p_184</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://carserdobrasil.netlify.app/cabo-de-forca-ac-tripolar</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://carserdobrasil.netlify.app/pos-verifone-vx-690</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://carserdobrasil.netlify.app/carregador-para-pos-ingenico-move-2500-5v-15a</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://carserdobrasil.netlify.app/carregador-para-pos-ingenico-move-5000</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://carserdobrasil.netlify.app/carregador-para-pos-verifone-c680</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://carserdobrasil.netlify.app/pos-verifone-vx690</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://carserdobrasil.netlify.app/lote-200-un-pos-verifone-vx520-ethernet</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://carserdobrasil.netlify.app/lote-300-un-pos-verifone-vx520-gprs</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://carserdobrasil.netlify.app/pos-verifone-c680</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://carserdobrasil.netlify.app/pos-smart-sm40-c-android</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://carserdobrasil.netlify.app/coletor-de-dados-motorola-omnii-xt15f</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
     </url>
   
     <url>
